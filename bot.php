@@ -6,7 +6,7 @@
 https://t.me/source_home
 */
 error_reporting(0);
-define('API_KEY','توکن');
+define('API_KEY','1040815875:AAHBvGiGjq9N7B96sOuMNAngbjTaGMgM7DQ');
 //@Source_Home
 function bot($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
